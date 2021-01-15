@@ -1,0 +1,57 @@
+body { 
+	background-image:url(фон2.png),url(rombs.jpg);
+	background-repeat: no-repeat, repeat;
+	background-position:bottom;
+	background-attachment:fixed;
+}
+#ссылка1 {
+	color:#5C3B09;
+	font-size: 23px;
+}
+#ссылка2 {
+	color: #92E319;
+	font-size: 23px;
+}
+#ссылка3 {
+	color: #2A3EF3;
+	font-size: 23px;
+}
+#ссылка4 {
+	color:#FBA849;
+	font-size: 23px;
+}
+#ссылка5 {
+	color: rgba(225, 237, 233);
+	font-size:22px;
+}
+.massage {
+	margin-left: 150px;
+	margin-right:1000px;
+	color: #ede1e2;
+	background-color: #6e040f;
+	}
+.massage: hover {
+	border=10px solid #6e040f;
+}
+.бульдог {
+	padding:1,5px;
+	margin:10px;
+	margin-bottom:15px;
+	font-size:23px;
+	color: #faf7f5;
+	background-color:black;
+	border:2px solid black;
+}
+div: hover {
+	border=10px solid #323232;
+}
+div:
+	font-size: 20px;
+.овчарка {
+
+	margin:10px;
+	margin-bottom:15px;
+	font-size:23px;
+	color: #26211d;
+	background-color: #c26f27;
+}
